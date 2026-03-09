@@ -5,7 +5,7 @@
 
 ## Actividades
 1. [Pantalla Principal -> (Completo)](https://github.com/DiegoCareaga946/Programacion-Movil/commit/f0953080165406368231f6aee958d93456fe6842)
-2. 
+2. [Pantalla Login -> (Completo)](https://github.com/DiegoCareaga946/Programacion-Movil/commit/5cabbdb6a91d0aee37750e4ec5c58f2ae12c134e)
 ## Autor
 > **Nombre:** Diego Careaga Celis \
 > **Materia:** Programación Móvil \
